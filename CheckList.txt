@@ -1,0 +1,9 @@
+The checklist should include the following:
+
+-The version of our assembly (Build, build).
+-The environment (Environment, environment) on which the testing.
+-Date of our test.
+-The tester who performed this test.
+-The type of tests that were used for certain checks.
+-The name of the checks.
+-The result of our testing (passed or failed)
